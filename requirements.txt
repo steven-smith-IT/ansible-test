@@ -1,1 +1,4 @@
 proxmoxer
+requests
+paramiko
+openssh_wrapper
